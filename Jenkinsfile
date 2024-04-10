@@ -2,7 +2,7 @@
 
 commons{
 
-    name = "product-app"
+    name = "micro-product-app"
     deployment = true
     service = true
     docker = true
